@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.0">
+  <name>Wii Remake Club Pinguim</name>
+  <coder>minahsjah</coder>
+  <version>1.0.0</version>
+  <release_date>20260911</release_date>
+  <short_description>Club Penguin Remake para Wii</short_description>
+  <long_description>Aplicativo homebrew oficial criado por minahsjah para rodar o NicolasMundo e o Remake do Club Pinguim direto no Nintendo Wii ou Dolphin Mobile.</long_description>
+</app>
