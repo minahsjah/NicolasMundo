@@ -1,0 +1,10 @@
+echo '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.0">
+  <name>Club Penguin Remake</name>
+  <coder>minahsjah</coder>
+  <version>1.0.0</version>
+  <release_date>20260911</release_date>
+  <short_description>Remake do Club Penguin para Wii</short_description>
+  <long_description>Um aplicativo homebrew real desenvolvido por minahsjah para rodar o NicolasMundo / Club Penguin Remake direto no console Nintendo Wii ou emulador Dolphin.</long_description>
+</app>' > apps/ClubPenguinRemake/meta.xml
+
