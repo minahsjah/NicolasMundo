@@ -1,13 +1,8 @@
-# Configuração padrão para compilar Homebrew de Wii
-TARGET		:= boot
 include $(DEVKITPPC)/wii_rules
 
-CFLAGS		:= -g -O2 -mrvl -Wall
-CXXFLAGS	:= $(CFLAGS)
-
-LIBS		:= -lwiiuse -lbte -logc -lm
-
-OBJS		:= main.o
+TARGET   := boot
+OBJS     := main.o
+LIBS     := -lwiiuse -lbte -logc -lm
 
 all: $(TARGET).dol
 
